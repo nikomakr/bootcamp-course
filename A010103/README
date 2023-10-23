@@ -1,0 +1,18 @@
+Create an HTML file with name HELLO.HTML 
+
+1 Just click on the file+ sign 
+2 name it HELLO.HTML
+3 Get in and type "!" and press enter
+4 You will have this:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
