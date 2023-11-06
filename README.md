@@ -2,8 +2,8 @@
 
 ## Activities from course repo & beyond
 
--Almost all of the activities re-done as part of my revision
--Extra examples or tweaks from course activities
+1. Almost all of the activities re-done as part of my revision
+2. Extra examples or tweaks from course activities
 
 ## Table of Contents (Optional)
 
@@ -19,10 +19,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 Depends on each acitivity.
 
 Each file is strcuture as such:
-<sub>A stands for activity</sub>
-<sub>first two digits follows stucture of the repo, so 01 is for the first week.</sub>
-<sub>second pair of digits similarly follows structure of the repo, stands for first section/subject of the week</sub>
-<sub>third pair of digits follows stucture of the repo respectively, stands for first niche activity</sub>
+1. <sub>A stands for activity</sub>
+2. <sub>first two digits follows stucture of the repo, so 01 is for the first week.</sub>
+3. <sub>second pair of digits similarly follows structure of the repo, stands for first section/subject of the week</sub>
+4. <sub>third pair of digits follows stucture of the repo respectively, stands for first niche activity</sub>
 
 ## Usage
 
