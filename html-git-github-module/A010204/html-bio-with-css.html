@@ -4,33 +4,35 @@
 <head>
   <meta charset="UTF-8">
   <title>CSS Stylesheets with Relative Paths</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
 </head>
 
 <body>
   <header>
     <h1>My Bio</h1>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    
   </header>
 
-  <div>
+  <div class="container">
 
     <section>
 
       <h2>Nik Mak</h2>
 
-      <img src="https://placehold.it/200x200" alt="Nik Mak">
+      <img id="bio-image" src="https://placehold.it/200x200" alt="Nik Mak">
 
-      <p>Write a short paragraph or two about yourself, or use placeholder text from <a href="http://www.lipsum.com/">www.lipsum.com</a></p>
-    </section>
+      <p>Content content content <a href="http://www.LinkedIn.com/NikolaosMakridis">www.LinkedIn.com/MyProfile</a></p>
+    </section id="main-bio">
 
-    <section>
+    <section id="main-bio">
       <h2>Contact Info</h2>
       <ul>
-        <li><strong>Email:</strong> <a href="#">someplace@gmail.com</a></li>
-        <li><strong>Github:</strong> <a href="#">sampleName</a></li>
+        <li><strong>Email:</strong> <a href="#">nik.interview.email@gmail.com</a></li>
+        <li><strong>Github:</strong> <a href="#">nikomakr</a></li>
         <li><strong>Portfolio:</strong> <a href="#">coming soon</a></li>
       </ul>
-    </section>
+    </section id="contact-info">
   </div>
 
 </body>
